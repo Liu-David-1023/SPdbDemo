@@ -1,14 +1,81 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employeeId": "E12345",
+  "alias": "mod",
+  "preferences": [
+      {
+          "code": 100,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 101,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 200,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 300,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 400,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 500,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 600,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 700,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 800,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 900,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 1000,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 1100,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 1200,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 1300,
+          "consent": "Open",
+          "status": "Open"
+      },
+      {
+          "code": 1400,
+          "consent": "Open",
+          "status": "Open"
+      }
+  ]
 }
